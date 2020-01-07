@@ -9,7 +9,7 @@ title:               Poole testing
 tagline:             The Jekyll Butler
 url:                 https://silvus.github.io
 paginate:            1
-baseurl:             "/poole"
+baseurl:             "poole"
 
 # Assets
 #
