@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               Poole testing
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://silvus.github.io
 paginate:            1
 baseurl:             ""
 
@@ -22,9 +22,4 @@ sass:
 author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+  email:             test@gmail.com
